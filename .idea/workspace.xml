@@ -45,12 +45,16 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="D:/repository/spring/spring" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
@@ -117,7 +121,7 @@
       <updated>1587270409866</updated>
       <workItem from="1587270414650" duration="8056000" />
       <workItem from="1587593416433" duration="1188000" />
-      <workItem from="1587813622878" duration="2526000" />
+      <workItem from="1587813622878" duration="4456000" />
     </task>
     <servers />
   </component>
@@ -129,14 +133,18 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="261" y="0" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1587270694670" />
+    <state x="261" y="0" key="#Project_Structure" timestamp="1587823304011">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="261" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1587823304011" />
     <state x="530" y="42" key="#com.intellij.ide.util.MemberChooser" timestamp="1587273677953">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="530" y="42" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1587273677953" />
-    <state x="499" y="111" key="FileChooserDialogImpl" timestamp="1587270633233">
+    <state x="499" y="111" key="FileChooserDialogImpl" timestamp="1587821711075">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="499" y="111" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1587270633233" />
+    <state x="499" y="111" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1587821711075" />
     <state width="1483" height="197" key="GridCell.Tab.0.bottom" timestamp="1587291591153">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
