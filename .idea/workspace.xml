@@ -42,6 +42,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -116,7 +117,7 @@
       <updated>1587270409866</updated>
       <workItem from="1587270414650" duration="8056000" />
       <workItem from="1587593416433" duration="1188000" />
-      <workItem from="1587813622878" duration="1513000" />
+      <workItem from="1587813622878" duration="2526000" />
     </task>
     <servers />
   </component>
