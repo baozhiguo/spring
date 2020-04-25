@@ -19,7 +19,7 @@ public class MessagePrinter {
 
     
     public void setMessageService(MessageService messageService) {
-        System.out.println("asdf");
+        System.out.println("af");
         this.messageService = messageService;
     }
 
