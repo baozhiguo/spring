@@ -19,7 +19,7 @@ public class MessagePrinter {
 
     
     public void setMessageService(MessageService messageService) {
-        System.out.println("af");
+        System.out.println("af地是那次");
         this.messageService = messageService;
     }
 
