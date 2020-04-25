@@ -19,7 +19,7 @@ public class MessagePrinter {
 
     
     public void setMessageService(MessageService messageService) {
-        System.out.println("你是小宝贝吗？");
+        System.out.println("你是大宝贝吗？");
         this.messageService = messageService;
     }
 
